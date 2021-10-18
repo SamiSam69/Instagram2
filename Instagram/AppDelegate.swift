@@ -10,6 +10,7 @@ import Parse
 import AlamofireImage
 
 
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -27,6 +28,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.initialize(with: parseConfig)
         
         // --- end copy
+        
+        
 
 
         return true
