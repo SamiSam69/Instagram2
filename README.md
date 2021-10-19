@@ -30,5 +30,4 @@ Here's a walkthrough of implemented user stories:
 - User stays logged in
 
 
-<img src='https://media.giphy.com/media/44GgFQ010sVLZo0ZFj/giphy.gif
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/44GgFQ010sVLZo0ZFj/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
